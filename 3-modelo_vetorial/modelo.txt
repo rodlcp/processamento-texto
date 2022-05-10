@@ -1,0 +1,1 @@
+Para facilitar leituras e processamentos futuros o modelo é salvo em formato nativo do numpy (.npy) sendo salva uma matriz esparsa termo-documento e um dicionário que faz o mapeamento do termo com as linhas da matriz.
